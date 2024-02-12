@@ -1,0 +1,1 @@
+-freq 144 -language english -novid -nojoy +exec autoexec.cfg -fps_max 200 -threads 7
