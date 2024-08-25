@@ -1,1 +1,1 @@
--freq 144 -language english -novid -nojoy +exec autoexec.cfg -threads 7
+-language english
